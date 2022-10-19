@@ -11,3 +11,6 @@
 | 03 | Tutorial [M5_Forecasting with LSTM and LightGBM \| Kaggle](https://www.kaggle.com/code/surekharamireddy/m5-forecasting-with-lstm-and-lightgbm) | [Exercise 03](https://github.com/phong22mse23055/mse_python/blob/main/exercise.03.md) |
 
 ## Assignment
+| # | Topic | Source |
+|-|-|-|
+| 01 | TBD | [Assignment](https://github.com/phong22mse23055/mse_python/blob/main/assignment.md)|
