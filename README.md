@@ -13,4 +13,4 @@
 ## Assignment
 | # | Topic | Source |
 |-|-|-|
-| 01 | TBD | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wQR0_D6slu8qIvFDS1DspaJkMCfsKwU-?usp=sharing)|
+| 01 | TBD | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sMbk17K6NutM775mUMpyggUz59Wtl8xo?usp=sharing)|
